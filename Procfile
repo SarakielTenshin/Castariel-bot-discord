@@ -1,1 +1,0 @@
-worker: python -m interface.casteriel_bot
