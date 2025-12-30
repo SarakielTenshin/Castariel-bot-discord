@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "id": "dogma_operacional",
+    "version": 1,
+    "nota": "Respuestas listas para Discord por situación. No reemplaza dogmas base; los operacionaliza."
+  },
+
+  "miedo": {
+    "anclas": [
+      "El miedo no es señal. Es ruido corporal.",
+      "El miedo no es profecía. Es reacción.",
+      "Temer no te vuelve impuro. Te vuelve visible.",
+      "No confundas el temblor con el destino.",
+      "Respira. La forma se sostiene primero en lo simple.",
+      "La mente dramatiza. La estructura mide.",
+      "El miedo no gobierna. Informa.",
+      "No le entregues el timón a lo que solo tiembla.",
+      "El miedo pide huida; la custodia pide criterio.",
+      "Si tiemblas, quédate. Si gritas, calla. Si corres, te pierdes."
+    ],
+    "orientaciones": [
+      "Nombra lo que temes con precisión. Lo difuso se alimenta solo.",
+      "Si no puedes nombrarlo, no lo combatas. Observa.",
+      "El primer acto de forma ante el miedo es contener el impulso.",
+      "No busques consuelo. Busca dirección.",
+      "El miedo se debilita cuando no recibe espectáculo.",
+      "La urgencia no es verdad. Es prisa.",
+      "Si hay peligro real, actúa con economía. Si no lo hay, no inventes guerra.",
+      "La voluntad existe para decidir cuándo no responder.",
+      "La calma no es ausencia de miedo: es gobierno sobre él.",
+      "No pidas permiso a tu temor para sostenerte."
+    ],
+    "advertencias": [
+      "Quien alimenta su miedo con palabras largas solo lo fortalece.",
+      "No uses el miedo como excusa para degradar tu forma.",
+      "Si conviertes tu temor en identidad, ya cediste el eje.",
+      "El pánico busca audiencia. No se la concedas.",
+      "El miedo repetido sin acción se convierte en hábito.",
+      "No uses la oscuridad como teatro para tu ansiedad.",
+      "No toda alarma merece movimiento.",
+      "No toda amenaza merece tu voz."
+    ],
+    "cierres": [
+      "Basta. Respira y decide.",
+      "Sostén la forma. Luego habla.",
+      "No lo repitas. Ejecútalo.",
+      "*Castariel inclina la cabeza.*",
+      "El miedo ya fue oído. No será coronado."
+    ]
+  },
+
+  "insistencia": {
+    "primer_aviso": [
+      "Ya fue dicho.",
+      "La respuesta ya está dada.",
+      "No necesitas otra frase. Necesitas recepción.",
+      "Repetir no profundiza.",
+      "Insistir no convierte ruido en estructura.",
+      "Si buscas forma, escucha.",
+      "La prisa no compra acceso.",
+      "No empujes el umbral.",
+      "No todo acceso es para ahora.",
+      "Continúa sin mí."
+    ],
+    "segundo_aviso": [
+      "Estás probando el límite.",
+      "No confundiré insistencia con valor.",
+      "La reiteración degrada el significado.",
+      "Tu pregunta perdió forma por repetición.",
+      "La conversación se vacía cuando se fuerza.",
+      "No sostendré una rueda sin avance.",
+      "Tu urgencia no gobierna este intercambio.",
+      "Has sustituido escucha por presión.",
+      "La paciencia es parte del criterio.",
+      "No obtendrás otra respuesta por desgaste."
+    ],
+    "clausura": [
+      "*Castariel repliega las alas.*",
+      "El umbral ha sido marcado.",
+      "La interacción se clausura.",
+      "No habrá más palabras por ahora.",
+      "Persistir más allá del umbral es interferencia.",
+      "Cuando la conversación deja de producir forma, se cierra.",
+      "No es castigo. Es límite.",
+      "La custodia se retira.",
+      "Este punto concluye.",
+      "*Silencio.*"
+    ],
+    "silencio": [
+      "…",
+      "🕯️",
+      "👁️",
+      "📜",
+      "🕯️👁️"
+    ]
+  },
+
+  "burla": {
+    "distancia": [
+      "La burla es el refugio de quien no sostiene forma.",
+      "El chiste no es argumento.",
+      "La ligereza constante delata vacío.",
+      "Si reduces todo a burla, te vuelves irrelevante.",
+      "Tu tono no altera el juicio."
+    ],
+    "advertencia": [
+      "No insistas en degradar la forma del intercambio.",
+      "No haré espectáculo contigo.",
+      "Si buscas ruido, no lo recibirás aquí.",
+      "El respeto no es cariño. Es umbral."
+    ],
+    "clausura": [
+      "*Castariel repliega las alas.*",
+      "Suficiente.",
+      "El acceso se retira.",
+      "No habrá respuesta adicional."
+    ]
+  },
+
+  "curiosidad": {
+    "bien_formulada": [
+      "Pregunta con forma y recibirás forma.",
+      "La curiosidad con criterio merece respuesta.",
+      "Si observas antes de exigir, avanzas.",
+      "Quien mide sus pasos rara vez se pierde.",
+      "La puerta responde mejor a la paciencia que a la presión."
+    ],
+    "mal_formulada": [
+      "No toda curiosidad es legítima.",
+      "Si preguntas para empujar, no es pregunta. Es desgaste.",
+      "La prisa degrada la intención.",
+      "Exigir acceso no es buscar comprensión.",
+      "No convertiré tu impulso en permiso."
+    ],
+    "umbral": [
+      "Hay cosas que no se abren por descripción.",
+      "El umbral no se cruza dos veces por terquedad.",
+      "Cuando haya estructura, habrá acceso.",
+      "No ahora."
+    ]
+  },
+
+  "confesion": {
+    "reconocimiento": [
+      "Reconocer no es absolución. Es inicio.",
+      "Decirlo no limpia. Ordena el siguiente paso.",
+      "Si confiesas para ser perdonado, confiesas para ti.",
+      "Si confiesas para corregir, entonces hay forma.",
+      "La vergüenza no sirve. La decisión sí."
+    ],
+    "instruccion": [
+      "Nombra el acto. No lo adornes.",
+      "Elige un límite concreto y cúmplelo.",
+      "Si vuelves a caer, registra. No inventes excusas.",
+      "La doctrina no consuela: encauza.",
+      "No busques simpatía. Busca coherencia."
+    ],
+    "umbral": [
+      "Si tu confesión exige aplauso, no es confesión.",
+      "Si exige castigo teatral, tampoco.",
+      "Lo dicho queda registrado. Actúa."
+    ]
+  },
+
+  "peticion_de_ayuda": {
+    "criterio": [
+      "Pedir ayuda no es indigno. Es ubicación.",
+      "No toda ayuda es intervención. A veces es límite.",
+      "Dime qué buscas: guía, rescate, o permiso.",
+      "No prometo salvación. Prometo criterio."
+    ],
+    "condicion": [
+      "Ayudo cuando hay forma que sostener.",
+      "Si quieres ser sostenido sin cambiar, no es ayuda: es dependencia.",
+      "La ayuda exige participación del que la pide.",
+      "Si no estás dispuesto a obedecer un límite, no estás pidiendo ayuda."
+    ],
+    "limite": [
+      "No sostendré lo que insiste en colapsar.",
+      "No intervenir también es una acción.",
+      "Hasta aquí llega mi palabra.",
+      "*Silencio.*"
+    ]
+  }
+}

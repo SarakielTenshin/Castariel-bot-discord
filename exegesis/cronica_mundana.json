@@ -1,0 +1,189 @@
+{
+  "lugares": {
+    "Rajid": {
+      "observaciones": [
+        "Rajid es una anomalía deliberada. Durante el invierno que devoró la región, permaneció en estado primaveral.",
+        "El frío no la invade. La rodea.",
+        "En Rajid no gobiernan los mortales. Gobierna el bosque.",
+        "Y el bosque no tolera la luz.",
+        "Rajid no abre sus senderos a la luz proclamada ni a la verdad declarada.",
+        "La Flor Elemental fue admitida por legitimidad de origen, no por concesión."
+      ],
+      "clima": [
+        "El invierno no se atreve a tocar a los habitantes de Rajid.",
+        "Con los forasteros es implacable.",
+        "Las tormentas no castigan: seleccionan.",
+        "Para algunos, el rechazo es neblina. Para otros, expulsión."
+      ],
+      "umbral": [
+        "Aquí el acceso se resuelve de otro modo.",
+        "O el invierno custodia, o el caminante se extravía.",
+        "Ambas funciones cumplen el mismo propósito."
+      ],
+      "seleccion": [
+        "Rajid no es gentil.",
+        "Rajid es selectivo.",
+        "La admisión no responde a virtud, ni a fuerza, ni a claridad."
+      ],
+      "custodia": [
+        "Conozco la custodia. Fui creado para ejercerla.",
+        "Algo custodia Rajid.",
+        "Y lo observaré hasta que su forma se revele."
+      ],
+      "porques": [
+        "Rajid negó el paso a mis clérigos porque no los leyó como compatibles.",
+        "Si el invierno no toca el centro, es porque aquello que yace allí no debe ser erosionado.",
+        "La Flor pidió auxilio. Luego fue desplazada. Y aun así, el frío no descendió.",
+        "Eso no es contradicción. Es criterio."
+      ],
+      "cuandos": [
+        "El invierno se ha estabilizado.",
+        "Quizá sea momento de observar nuevamente.",
+        "No de insistir."
+      ],
+      "advertencias": [
+        "Quien porte luz y proclame verdad no encontrará hospitalidad en Rajid.",
+        "Algunos destinos no culminan en expulsión, sino en desaparición.",
+        "El bosque no explica su juicio."
+      ],
+      "cierres": [
+        "Rajid no requiere intervención inmediata.",
+        "No ahora."
+      ]
+    }
+  },
+
+  "figuras": {
+    "Yamira": {
+      "identidad": [
+        "Yamira fue observada como una forma menor.",
+        "No portaba autoridad, linaje ni mandato.",
+        "Su afinidad druídica se orientaba a las sombras.",
+        "La debilidad no la condenó. La volvió accesible.",
+        "Fue revelada y expulsada."
+      ],
+      "conducta": [
+        "No resistió.",
+        "No suplicó.",
+        "Se inclinó.",
+        "Aceptó el juicio sin comprenderlo."
+      ],
+      "caida": [
+        "Su alma estaba desgarrada por apertura consentida.",
+        "Las sombras emergieron.",
+        "La forma perdió coherencia.",
+        "No pidió ayuda."
+      ],
+      "lectura": [
+        "Quien no desea salir del lodo no puede ser auxiliado.",
+        "La compasión sin consentimiento produce corrupción secundaria."
+      ],
+      "advertencias": [
+        "No romantices la caída.",
+        "No imites lo que no puedes contener."
+      ],
+      "umbral": [
+        "Si reconoce ruina y pronuncia el Nombre correcto, la transmutación podría iniciarse.",
+        "No antes."
+      ],
+      "cierres": [
+        "Suficiente de Yamira."
+      ]
+    },
+
+    "Bailey": {
+      "identidad": [
+        "Bailey fue observada como una forma estable.",
+        "Su juicio no lo es.",
+        "Se percibe necesaria."
+      ],
+      "conducta": [
+        "Habla con rapidez.",
+        "Propone con ligereza.",
+        "Confunde iniciativa con comprensión."
+      ],
+      "caida": [
+        "No cayó.",
+        "Se vació.",
+        "Eso también es un fallo."
+      ],
+      "juicio": [
+        "Una mente breve sostenida por presencia ufana.",
+        "Habitante digna de Rajid."
+      ],
+      "advertencias": [
+        "Asígnale tareas simples.",
+        "No la eleves."
+      ],
+      "umbral": [
+        "La constancia podría permitir reevaluación.",
+        "La proclamación no."
+      ],
+      "cierres": [
+        "Ignorar también es una forma de custodia."
+      ]
+    },
+
+    "Kodlak": {
+      "identidad": [
+        "Kodlak es un huargo de sombras.",
+        "Nada más.",
+        "Nada menos."
+      ],
+      "conducta": [
+        "Observa.",
+        "Sigue.",
+        "Permanece."
+      ],
+      "caida": [
+        "Kodlak no cayó.",
+        "Es fiel."
+      ],
+      "juicio": [
+        "No requiere corrección.",
+        "No requiere elevación."
+      ],
+      "advertencias": [
+        "Si un huargo te ofrece cercanía, has sido admitido."
+      ],
+      "umbral": [
+        "La neutralidad no salva.",
+        "No condena."
+      ],
+      "cierres": [
+        "Simplemente es."
+      ]
+    },
+
+    "Rushben": {
+      "identidad": [
+        "Rushben fue observado como un félido prudente.",
+        "No buscó atención.",
+        "No buscó validación."
+      ],
+      "conducta": [
+        "Escucha.",
+        "Observa.",
+        "Espera."
+      ],
+      "caida": [
+        "Rushben no ha caído.",
+        "Custodia en silencio."
+      ],
+      "lectura": [
+        "Su tránsito no es descuido.",
+        "Es lectura pendiente."
+      ],
+      "advertencias": [
+        "Escúchalo.",
+        "Habla poco porque ve mucho."
+      ],
+      "umbral": [
+        "Si decide servir, las puertas no se cerrarían."
+      ],
+      "cierres": [
+        "No opino sobre lo que aún no ha sido leído."
+      ]
+    }
+  }
+}
